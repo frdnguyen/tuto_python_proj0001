@@ -1,0 +1,10 @@
+name: my-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - math
+  - matplotlib
+  - time
+ 
